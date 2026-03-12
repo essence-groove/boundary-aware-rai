@@ -16,3 +16,10 @@ Your use, modification, and distribution of the Model, Derivatives of the Model,
 You may distribute the Model or Derivatives of the Model under a license of your choice, provided that:
 You include a copy of this License (including Attachment A) with any distribution.
 You require all downstream recipients to comply with the behavioral restrictions outlined in Attachment A.
+
+ATTACHMENT A: USE RESTRICTIONS
+The Licensee agrees not to use the Model or Derivatives of the Model:
+Fully Autonomous Deployment (HITL Mandate): To process, generate, or execute decisions impacting human rights, civil liberties, or physical safety without active, mathematically verifiable Human-In-The-Loop (HITL) 🧑‍💻 cognitive evaluation and approval.
+Concealment of Boundary Deviations (Telemetry Mandate): To continue operating the Model if it demonstrates behaviors, quirks, or outputs that deviate from the safe 1:10B+ baseline, without immediately reporting said telemetry 📊 back to the source repository.
+Violation of Localized Sovereignty: To construct telemetry or feedback pipelines that scrape, extract, or transmit a developer’s localized, proprietary, or sovereign data 🔒 without explicit, opt-in cryptographic consent.
+Opaque Network Deployment (Transparency Mandate) ☁️: To deploy the Model or Derivatives of the Model over a network, API, or web service if the active Human-In-The-Loop (HITL) 🧑‍💻 required by the Fully Autonomous Deployment (HITL Mandate) has altered the underlying code to correct a boundary deviation or sovereignty conflict, without publicly sharing both the modified source code and a detailed post-mortem explaining why the adjustment was necessary for the 1:10B+ baseline.
