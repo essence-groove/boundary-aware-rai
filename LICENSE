@@ -1,8 +1,7 @@
 MULTI-LAYERED LICENSE AGREEMENT
-This repository is governed by a stacked, multi-layered licensing framework. By accessing, modifying, distributing, or deploying this software or its associated machine learning models, the Licensee agrees to be bound simultaneously by the following three licenses, presented consecutively within this document:
-The GNU Affero General Public License, Version 3.0 (AGPL-3.0) — Governing source code modification, distribution, and network interaction.
-The Hippocratic License, Version 3.0 (HLOS) — Governing human rights boundaries, systemic physical impacts, and the 1:10B+ baseline.
-The OpenRAIL Addendum (Attachment A: Use Restrictions) — Governing model deployment, mandatory Human-In-The-Loop (HITL) evaluation, and safety telemetry feedback.
+This repository is governed by a stacked, multi-layered licensing framework. By accessing, modifying, distributing, or deploying this software or its associated machine learning models, the Licensee agrees to be bound simultaneously by the following two licenses, presented consecutively within this document:
+The OpenRAIL License (with Custom Attachment A: Use Restrictions) — Governing copyright, model deployment, mandatory Human-In-The-Loop (HITL) evaluation, transparency, and safety telemetry feedback.
+The Hippocratic License, Version 3.0 (HLOS) — Governing patent grants, human rights boundaries, systemic physical impacts, and the 1:10B+ baseline.
 Violation of the terms contained within any single layer immediately and automatically revokes all rights and permissions granted by the other layers.
 
 
