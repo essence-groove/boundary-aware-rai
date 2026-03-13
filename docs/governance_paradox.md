@@ -11,6 +11,5 @@ If the objective is to establish an unyielding, mathematical, and ethical bulwar
 #### Bulwark (bull-work) refers to:
 A defensive, solid wall or embankment constructed for protection.
 Any strong defense or protection; a person, institution, or principle that serves as a guard against a threat or danger.
-Application in this Document:
-
+##### Application in this Document:
 The use of "bulwark" highlights the framework's role as an unyielding, mathematical, and ethical barrier. It establishes the 1:10B+ baseline as a reinforced, defensive standard designed to shield humanity and the planet from the risks of irresponsible AI development. This term powerfully communicates that the standard will remain firm against any efforts by corporate or commercial interests to undermine or dilute its ethics.
