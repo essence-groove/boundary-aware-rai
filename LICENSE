@@ -27,12 +27,19 @@ You include a copy of this License (including Attachment A) with any distributio
 You require all downstream recipients to comply with the behavioral restrictions outlined in Attachment A.
 Commercial Distribution Notice: If you distribute a closed-source or commercial version of this software, the full text of this multi-layered LICENSE file must be explicitly included in your software’s End User License Agreement (EULA), Terms of Service, or 'Legal Notices' menu so end-users are aware of the behavioral boundaries.
 
-ATTACHMENT A: USE RESTRICTIONS
+ATTACHMENT A: USE RESTRICTIONS AND CUSTOM DEFINITIONS
+
+Attribution Notice: This structure utilizes the OPEN RESPONSIBLE AI LICENSE (OpenRAIL) framework (https://www.licenses.ai/). While the core OpenRAIL Base handles standard copyright and distribution, this specific Attachment A has been heavily customized by the Licensor to enforce strict, novel mathematical boundaries.
+
+Custom Definition - The 1:10B+ Baseline:
+For the purposes of these restrictions, the "1:10B+ baseline" is the formal mathematical safety threshold requiring that the probability of the Model generating autonomous decisions or outputs that result in critical systemic failures, physical harm, ecocide, or deviations from the ethical boundaries established herein is demonstrably less than one in ten billion ($10^{-10}$). This threshold mathematically necessitates the inclusion and protection of undocumented, unrepresented, or statistically anomalous human populations, and strictly extends this Duty of Care to the broader planetary ecosystem, biosphere, and all lifeforms protected under the embedded Hippocratic License (HLOS).
+
 The Licensee agrees not to use the Model or Derivatives of the Model:
-Fully Autonomous Deployment (HITL Mandate): To process, generate, or execute decisions impacting human rights, civil liberties, or physical safety without active, mathematically verifiable Human-In-The-Loop (HITL) 🧑‍💻 cognitive evaluation and approval.
-Concealment of Boundary Deviations (Telemetry Mandate): To continue operating the Model if it demonstrates behaviors, quirks, or outputs that deviate from the safe 1:10B+ baseline, without immediately reporting said telemetry 📊 back to the source repository.
-Violation of Localized Sovereignty: To construct telemetry or feedback pipelines that scrape, extract, or transmit a developer’s localized, proprietary, or sovereign data 🔒 without explicit, opt-in cryptographic consent.
-Opaque Network Deployment (Transparency Mandate) ☁️: To deploy the Model or Derivatives of the Model over a network, API, or web service if the active Human-In-The-Loop (HITL) 🧑‍💻 required by the Fully Autonomous Deployment (HITL Mandate) has altered the underlying code to correct a boundary deviation or sovereignty conflict, without publicly sharing both the modified source code and a detailed post-mortem explaining why the adjustment was necessary for the 1:10B+ baseline.
+1. Fully Autonomous Deployment (HITL Mandate): To process, generate, or execute decisions impacting human rights, civil liberties, or physical safety without active, mathematically verifiable Human-In-The-Loop (HITL) 🧑‍💻 cognitive evaluation and approval.
+2. Concealment of Boundary Deviations (Telemetry Mandate): To continue operating the Model if it demonstrates behaviors, quirks, or outputs that deviate from the safe 1:10B+ baseline, without immediately reporting said telemetry 📊 back to the source repository.
+3. Violation of Localized Sovereignty: To construct telemetry or feedback pipelines that scrape, extract, or transmit a developer’s localized, proprietary, or sovereign data 🔒 without explicit, opt-in cryptographic consent.
+4. Opaque Network Deployment (Transparency Mandate) ☁️: To deploy the Model or Derivatives of the Model over a network, API, or web service if the active Human-In-The-Loop (HITL) 🧑‍💻 required by the Fully Autonomous Deployment (HITL Mandate) has altered the underlying code to correct a boundary deviation or sovereignty conflict, without publicly sharing both the modified source code and a detailed post-mortem explaining why the adjustment was necessary for the 1:10B+ baseline.
+
 
 HIPPOCRATIC LICENSE
 
