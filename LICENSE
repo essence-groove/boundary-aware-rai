@@ -1,5 +1,5 @@
 MULTI-LAYERED LICENSE AGREEMENT
-Disclaimer: The author of this repository is a computer science researcher, not a legal professional. This multi-layered license is an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems.
+Disclaimer: The author of this repository is an independent computer science researcher currently seeking certification in Machine Learning Engineering, not a legal professional. This multi-layered license is an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems.
 This repository is governed by a stacked, multi-layered licensing framework. By accessing, modifying, distributing, or deploying this software or its associated machine learning models, the Licensee agrees to be bound simultaneously by the following two licenses, presented consecutively within this document:
 The OpenRAIL License (with Custom Attachment A: Use Restrictions) — Governing copyright, model deployment, mandatory Human-In-The-Loop (HITL) evaluation, transparency, and safety telemetry feedback.
 The Hippocratic License, Version 3.0 (HLOS) — Governing patent grants, human rights boundaries, systemic physical impacts, and the 1:10B+ baseline.
