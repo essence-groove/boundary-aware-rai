@@ -22,7 +22,7 @@ This repository is governed by a strict, multi-layered licensing agreement desig
 1. **The OpenRAIL Base (with Attachment A):** Mandating active Human-In-The-Loop (HITL) evaluation, localized sovereignty data protection, safety telemetry reporting, and transparent cloud deployments.
 2. **The Hippocratic License (HLOS 3.0):** Establishing absolute boundaries against human rights abuses, extrajudicial violence, and ecocide.
 
-If you attempt to bypass the HITL requirements or hide telemetry deviations behind an opaque cloud API, your rights to use this software are automatically and immediately revoked. **Please read the full `LICENSE` file before proceeding.**
+If you attempt to bypass the HITL requirements or hide telemetry deviations behind an opaque cloud API, your rights to use this software are automatically and immediately revoked. **Please read the full [`LICENSE`](LICENSE) file before proceeding.**
 
 ## 📂 Architectural Workspace
 To protect the "Localized Sovereignty" of our contributors while maintaining global safety transparency, this repository is physically partitioned:
