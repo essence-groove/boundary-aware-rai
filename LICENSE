@@ -1,17 +1,23 @@
 MULTI-LAYERED LICENSE AGREEMENT
 Copyright (c) 2026 Eeshvar Das (Erik Douglas Ward)
-Disclaimer: The author of this repository is an independent computer science researcher currently seeking certification in Machine Learning Engineering, not a legal professional. This multi-layered license is an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems.
+
+Disclaimer: The author of this repository is an independent computer science researcher currently seeking certification in Machine Learning Engineering, not a legal professional. This multi-layered license is an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems. For the purposes of this agreement, the "Licensor" is Eeshvar Das.
+
 This repository is governed by a stacked, multi-layered licensing framework. By accessing, modifying, distributing, or deploying this software or its associated machine learning models, the Licensee agrees to be bound simultaneously by the following two licenses, presented consecutively within this document:
 The OpenRAIL License (with Custom Attachment A: Use Restrictions) — Governing copyright, model deployment, mandatory Human-In-The-Loop (HITL) evaluation, transparency, and safety telemetry feedback.
 The Hippocratic License, Version 3.0 (HLOS) — Governing patent grants, human rights boundaries, systemic physical impacts, and the 1:10B+ baseline.
+
 Bifurcated Termination for Violations:
 Because this framework governs both strict technical operations and broader systemic impacts, termination conditions are scoped to the specific layer breached:
 Technical/Behavioral Violations: Any violation of the technical mandates outlined in the OpenRAIL Addendum (Attachment A) immediately and automatically revokes all rights and permissions granted by this entire agreement.
 Systemic/Human Rights Violations: Any violation of the broader ethical and human rights boundaries outlined in the Hippocratic License (HLOS) is subject to the 30-day remedy window explicitly defined in Section 7.1 of the HLOS text, protecting the structural intentions of that specific license.
 
+Global Severability: 
+If any specific layer, clause, or technical mandate of this multi-layered agreement is found to be unenforceable by a court of competent jurisdiction, it shall not affect the validity or enforceability of the remaining layers and clauses.
 
 
-# OPEN RESPONSIBLE AI LICENSE (OpenRAIL) Base
+
+# LAYER 1: OPEN RESPONSIBLE AI LICENSE (OpenRAIL) Base
 
 **Section I: DEFINITIONS**
 
@@ -60,7 +66,7 @@ The Licensee agrees not to use the Model or Derivatives of the Model:
 
 
 
-(HLOS)
+# LAYER 2: HIPPOCRATIC LICENSE (HLOS)
 
 HIPPOCRATIC LICENSE
 Version 3.0, October 2021
