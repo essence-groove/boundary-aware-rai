@@ -1,8 +1,13 @@
 MULTI-LAYERED LICENSE AGREEMENT
+Disclaimer: The author of this repository is a computer science researcher, not a legal professional. This multi-layered license is an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems.
 This repository is governed by a stacked, multi-layered licensing framework. By accessing, modifying, distributing, or deploying this software or its associated machine learning models, the Licensee agrees to be bound simultaneously by the following two licenses, presented consecutively within this document:
 The OpenRAIL License (with Custom Attachment A: Use Restrictions) — Governing copyright, model deployment, mandatory Human-In-The-Loop (HITL) evaluation, transparency, and safety telemetry feedback.
 The Hippocratic License, Version 3.0 (HLOS) — Governing patent grants, human rights boundaries, systemic physical impacts, and the 1:10B+ baseline.
-Violation of the terms contained within any single layer immediately and automatically revokes all rights and permissions granted by the other layers.
+Bifurcated Termination for Violations:
+Because this framework governs both strict technical operations and broader systemic impacts, termination conditions are scoped to the specific layer breached:
+Technical/Behavioral Violations: Any violation of the technical mandates outlined in the OpenRAIL Addendum (Attachment A) immediately and automatically revokes all rights and permissions granted by this entire agreement.
+Systemic/Human Rights Violations: Any violation of the broader ethical and human rights boundaries outlined in the Hippocratic License (HLOS) is subject to the 30-day remedy window explicitly defined in Section 7.1 of the HLOS text, protecting the structural intentions of that specific license.
+
 
 OPEN RESPONSIBLE AI LICENSE (OpenRAIL) Base
 Section I: Definitions
