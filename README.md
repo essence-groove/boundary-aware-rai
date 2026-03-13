@@ -35,6 +35,6 @@ To protect the "Localized Sovereignty" of our contributors while maintaining glo
 We are actively seeking collaboration from Machine Learning Engineers, ethicists, and formal verification specialists. To understand the immediate needs of this repository, please review our open issues:
 
 * **[Issue #1: Embodying the Problem Domain Publishing Lifecycle](https://github.com/essence-groove/boundary-aware-rai/issues/1)** — Designing a cloud-transparent telemetry pipeline that filters for safety without violating the local privacy of the `sovereign_workspace`.
-* **[Issue #2: Establishing Formal Verification for the 1:10B+ Boundary](https://github.com/essence-groove/boundary-aware-rai/issues/2)** — Applying mathematical logic (e.g., Coq, TLA+, or custom verification proofs) to guarantee our system respects the $10^{-10}$ baseline.
+* **[Issue #2: Establishing Formal Verification for the 1:10B+ Boundary](https://github.com/essence-groove/boundary-aware-rai/issues/2)** — Applying mathematical logic to guarantee our system respects the $10^{-10}$ baseline.
 
 We must build this together.
