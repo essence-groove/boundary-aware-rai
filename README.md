@@ -6,7 +6,7 @@
 
 A boundary-aware AI infrastructure embedding formal verification 📐 and Responsible AI ⚖️ directly into the development lifecycle.
 
-*Disclaimer: The author of this repository is a computer science researcher. This repository serves as an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems as part of an MSc thesis.*
+*Disclaimer: The author of this repository is an independent computer science researcher currently seeking certification in Machine Learning Engineering. This repository serves as an experimental, boundary-aware framework designed to enforce strict technical and ethical constraints on machine learning systems.*
 
 ---
 
@@ -29,7 +29,7 @@ To protect the "Localized Sovereignty" of our contributors while maintaining glo
 
 * `/core_engine/` — Houses the primary Responsible AI framework and formal verification protocols.
 * `/sovereign_workspace/` — A designated sandbox for the "01'" participant. This is where contributors build localized, sovereign HITL modules and safety pipelines without compromising their private data or proprietary code.
-* `/docs/` — Phase documentation, architectural diagrams, and thesis research notes.
+* `/docs/` — Phase documentation, architectural diagrams, and ongoing ML Engineering research notes.
 
 ## 🛠️ Active Engineering Challenges (Experimental Alpha)
 We are actively seeking collaboration from Machine Learning Engineers, ethicists, and formal verification specialists. To understand the immediate needs of this repository, please review our open issues:
