@@ -7,3 +7,10 @@ Ultimately, the inclusion of a "01'” participant (the Human-In-The-Loop) is an
 ### The Case for "No, I Build The Standard"
 Collaboration, conversely, often necessitates compromise. Opening the core engine's development to a wide audience creates the risk of diluting the stringent 1:10B+ baseline—perhaps deemed "too hard" for standard commercial cloud environments.
 If the objective is to establish an unyielding, mathematical, and ethical bulwark, then a collaborative build may be counterproductive. In such a scenario, the preferred approach is to independently develop the core engine and all mathematical proofs, then release the repository as a fixed standard that the world must either adhere to or fall short of.
+### Definition
+#### Bulwark (bull-work) refers to:
+A defensive, solid wall or embankment constructed for protection.
+Any strong defense or protection; a person, institution, or principle that serves as a guard against a threat or danger.
+Application in this Document:
+
+The use of "bulwark" highlights the framework's role as an unyielding, mathematical, and ethical barrier. It establishes the 1:10B+ baseline as a reinforced, defensive standard designed to shield humanity and the planet from the risks of irresponsible AI development. This term powerfully communicates that the standard will remain firm against any efforts by corporate or commercial interests to undermine or dilute its ethics.
